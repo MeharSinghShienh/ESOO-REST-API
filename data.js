@@ -217,7 +217,7 @@ const data  = {
             species: "Snapping Turtle",
             location: "Southern Ontario",
             status: "Special concern",
-            date: "September 10, 2009",
+            date: "2009",
             photo: "http://www.ontarioparks.com/parksblog/wp-content/uploads/2020/05/Fitzroy_SnappingTurtle_.png"
         },
         {

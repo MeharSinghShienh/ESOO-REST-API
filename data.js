@@ -440,6 +440,7 @@ const data  = {
           photo: "https://bugguide.net/images/cache/K0N/0H0/K0N0H0U0CQXQWRLQNRRQURJKUR3KNRQQJR7QDRW0DRW03RW0Z0SQ3RU0S04000KQZ07QR0P0K0QQH0QQWRFKFQJK1RLQ.jpg"
       }
   ],
+
   Fishes: [
         {
             name: "American Eel",
@@ -689,7 +690,91 @@ const data  = {
             date: "2008",
             photo: "https://ncfishes.com/wp-content/uploads/2019/12/Lepomis-gulosus.png"
         }
-    ]
+    ],
+      
+    Amphibians: [
+      {
+          name: "Allegheny mountain dusky salamander",
+          species: "Desmognathus ochrophaeus",
+          location: "Southwestern Quebec and the Niagara Gorge in southern Ontario",
+          status: "Endangered",
+          date: "2008",
+          photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/allegheny-mountain-dusky-salamander-01.jpg",
+      },
+      {
+        name: "Blanchard’s Cricket Frog",
+        species: "Acris blanchardi",
+        location: "Pelee Island and Point Pelee in southwestern Ontario",
+        status: "Extirpated",
+        date: "2008",
+        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/blanchards-cricket-frog-01.jpg",
+      },
+      {
+        name: "Eastern tiger salamander",
+        species: "Ambystoma tigrinum",
+        location: "Point Pelee",
+        status: "Extirpated",
+        date: "2008",
+        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/eastern-tiger-salamander-01.jpg",
+      },
+      {
+        name: "Fowler’s toad",
+        species: "Anaxyrus fowleri",
+        location: "Rondeau, Long Point and Niagara",
+        status: "Endangered",
+        date: "2010",
+        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/fowlers-toad-03.jpg",
+      },
+      {
+        name: "Jefferson salamander",
+        species: "Ambystoma jeffersonianum",
+        location: "southern Ontario, mainly along the Niagara Escarpment",
+        status: "Endangered",
+        date: "2011",
+        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/jefferson-salamander-01.jpg",
+      },
+      {
+        name: "Northern dusky salamander",
+        species: "Desmognathus fuscus",
+        location: "a small area of the Niagara Peninsula",
+        status: "Endangered",
+        date: "2008",
+        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/northern-dusky-salamander-01.jpg",
+      },
+      {
+        name: "Small-mouthed salamander",
+        species: "Ambystoma texanum",
+        location: "Pelee Island",
+        status: "Endangered",
+        date: "2009",
+        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/small-mouthed-salamander-01.jpg",
+      },
+      {
+        name: "Spring Salamander",
+        species: "Gyrinophilus porphyriticus",
+        location: "no longer in Ontario, now found only in Quebec",
+        status: "Extirpated",
+        date: "2008",
+        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/spring-salamander-01.jpg",
+      },
+      {
+        name: "Unisexual Ambystoma (Jefferson salamander dependent population)",
+        species: "Ambystoma laterale-(2) jeffersonianum",
+        location: "southern Ontario, mainly along the Niagara Escarpment",
+        status: "Endangered",
+        date: "2017",
+        photo: "https://files.ontario.ca/jefferson-dependent-unisexual-ambystoma-joecrowley.jpg",
+      },
+      {
+        name: "Unisexual Ambystoma (Small-mouthed Salamander dependent population)",
+        species: "Ambystoma laterale - texanum",
+        location: "Pelee Island ",
+        status: "Endangered",
+        date: "2017",
+        photo: "https://files.ontario.ca/unisexual-ambystoma-small-mouthed-salamander_0_0.jpg",
+      }
+  ],
+
 }
 
 export default data;

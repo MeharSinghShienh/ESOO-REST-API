@@ -440,6 +440,258 @@ const data  = {
           photo: "https://bugguide.net/images/cache/K0N/0H0/K0N0H0U0CQXQWRLQNRRQURJKUR3KNRQQJR7QDRW0DRW03RW0Z0SQ3RU0S04000KQZ07QR0P0K0QQH0QQWRFKFQJK1RLQ.jpg"
       }
   ],
+
+  Fishes: [
+        {
+            name: "American Eel",
+            species: "Anguilla Rostrata",
+            location: "Atlantic Ocean",
+            status: "Endangered",
+            date: "2013",
+            photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/american-eel-01.jpg"
+        },
+        {
+            name: "Black Redhorse",
+            species: "Moxostoma duquesnei",
+            location: "Grand River",
+            status: "Threatened",
+            date: "2008",
+            photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/black-redhorse-01.jpg"
+        },
+        {
+            name: "Blackstripe topminnow",
+            species: "Fundulus notatus",
+            location: "Sydenham River",
+            status: "Special Concern",
+            date: "2009",
+            photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/blackstripe-topminnow-01.jpg"
+        },
+        {
+            name: "Bridle shiner",
+            species: "Notropis bifrenatus",
+            location: "St. Lawrence River",
+            status: "Special Concern",
+            date: "2008",
+            photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/bridle-shiner-01.jpg"
+        },
+        {
+            name: "Channel darter",
+            species: "Percina copelandi",
+            location: "Lake Erie",
+            status: "Special Concern",
+            date: "2008",
+            photo: "https://files.ontario.ca/chda_channel_darter.jpg"
+        },
+        {
+            name: "Cutlip minnow",
+            species: "Exoglossum maxillingua",
+            location: "southeastern Ontario",
+            status: "Threatened",
+            date: "2008",
+            photo: "https://ncfishes.com/wp-content/uploads/2020/08/Cutlip-Minnow-Exoglossum-maxillingua.jpg"
+        },
+        {
+            name: "Eastern sand darter",
+            species: "Ammocrypta pellucida",
+            location: "southwestern Ontario",
+            status: "Endangered",
+            date: "2008",
+            photo: "https://mnfi.anr.msu.edu/element-images/Ammocrypta-pellucida-4162.jpg"
+        },
+        {
+            name: "Grass pickerel",
+            species: "Esox americanus vermiculatus",
+            location: "southern Ontario",
+            status: "Special Concern",
+            date: "2008",
+            photo: "https://upload.wikimedia.org/wikipedia/commons/6/60/Esox_americanus_vermiculatus_juvenile.JPG"
+        },
+        {
+            name: "Gravel chub",
+            species: "Erimystax x-punctata",
+            location: "Used to be found in southwestern Ontario",
+            status: "Extirpated",
+            date: "2008",
+            photo: "https://wildlife-species.canada.ca/species-risk-registry/images/photos/spp084p1.jpg"
+        },
+        {
+            name: "Lake chubsucker",
+            species: "Erimyzon sucetta",
+            location: "southern Ontario",
+            status: "Threatened",
+            date: "2008",
+            photo: "https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/66/2020/02/Plate-61.jpg"
+        },
+        {
+            name: "Lake Sturgeon (Great Lakes - Upper St. Lawrence populations)",
+            species: "Acipenser fulvescens",
+            location: "Great Lakes and Upper St. Lawrence River",
+            status: "Endangered",
+            date: "2008",
+            photo: "https://tnacifin.com/sites/default/files/acipenser_fulvescens_lake_sturgeon.jpg"
+        },
+        {
+            name: "Lake Sturgeon (Saskatchewan - Nelson River populations)",
+            species: "Acipenser fulvescens",
+            location: "Nelson River",
+            status: "Threatened",
+            date: "2008",
+            photo: "https://py-api.taklimakan.network/media/storage/10314/2019/08/30/image/5d68e7d11b2ba.jpeg"
+        },
+        {
+            name: "Lake Sturgeon (Southern Hudson Bay - James Bay populations)",
+            species: "Acipenser fulvescens",
+            location: "Southern Hudson Bay and James Bay",
+            status: "Special Concern",
+            date: "2008",
+            photo: "https://www.frontenacarchbiosphere.ca/sites/frontenacarchbiosphere.ca/files/img/activity/Lake%20Sturgeon%20Aquatarium.jpg"
+        },
+        {
+            name: "Northern brook lamprey",
+            species: "Ichthyomyzon fossor",
+            location: "Rivers draining into Lakes Superior, Huron and Erie, and the Ottawa River",
+            status: "Special Concern",
+            date: "2008",
+            photo: "https://live.staticflickr.com/7016/6420479453_7c9b470bb9_b.jpg"
+        },
+        {
+            name: "Northern madtom",
+            species: "Noturus stigmosus",
+            location: "Lake St. Clair",
+            status: "Endangered",
+            date: "2008",
+            photo: "https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/59/2017/07/34-N_stigmosus.jpg"
+        },
+        {
+            name: "Northern Sunfish (Great Lakes - Upper St. Lawrence populations)",
+            species: "Lepomis peltastes",
+            location: "southern Ontario",
+            status: "Special Concern",
+            date: "2017",
+            photo: "https://upload.wikimedia.org/wikipedia/commons/9/90/Lepomis_megalotis_2.jpg"
+        },
+        {
+            name: "Paddlefish",
+            species: "Polyodon spathula",
+            location: "Used to be found in Lake Huron",
+            status: "Extirpated",
+            date: "2008",
+            photo: "https://cdn.britannica.com/20/3320-050-878EBA1B/American-paddlefish.jpg"
+        },
+        {
+            name: "Pugnose minnow",
+            species: "Opsopoeodus emiliae",
+            location: "extreme southwestern Ontario",
+            status: "Threatened",
+            date: "2008",
+            photo: "https://tnacifin.com/sites/default/files/opsopoeodus_emiliae_pugnose_minnow.jpg"
+        },
+        {
+            name: "Pugnose shiner",
+            species: "Notropis anogenus",
+            location: "southern Ontario",
+            status: "Threatened",
+            date: "2008",
+            photo: "https://mnfi.anr.msu.edu/element-images/Notropis-anogenus-5130.jpg"
+        },
+        {
+            name: "Redside dace",
+            species: "Clinostomus elongatus",
+            location: "Great Lakes basin",
+            status: "Endangered",
+            date: "2009",
+            photo: "https://files.ontario.ca/562-1-2-redside-dace.jpg"
+        },
+        {
+            name: "River Darter (Great Lakes - Upper St. Lawrence populations)",
+            species: "Percina shumardi",
+            location: "Lake St. Clair",
+            status: "Endangered",
+            date: "2017",
+            photo: "https://www2.illinois.gov/dnr/education/WAImages/WAFRiverDarter-LM.jpg"
+        },
+        {
+            name: "River redhorse",
+            species: "Moxostoma carinatum",
+            location: "eastern and southern Ontario",
+            status: "Special Concern",
+            date: "2016",
+            photo: "https://www.nps.gov/miss/learn/nature/images/river_redhorse.jpg?maxwidth=650&autorotate=false"
+        },
+        {
+            name: "Shortjaw cisco",
+            species: "Coregonus zenithicus",
+            location: "Great Lakes",
+            status: "Threatened",
+            date: "2008",
+            photo: "https://www.sararegistry.gc.ca/0379EBFF-98DA-405E-A4FB-25B3391107CA/X-200910261504147036.gif"
+        },
+        {
+            name: "Shortnose cisco",
+            species: "Coregonus reighardi",
+            location: "Great Lakes",
+            status: "Endangered",
+            date: "2008",
+            photo: "https://files.ontario.ca/shortnose_cisco.jpg"
+        },
+        {
+            name: "Silver chub",
+            species: "Macrhybopsis storeriana",
+            location: "Lake Erie and Lake St. Clair",
+            status: "Threatened",
+            date: "2008",
+            photo: "http://fish.aseev.com/thumbnails/001/20201024170109.jpg"
+        },
+        {
+            name: "Silver lamprey (Great Lakes - Upper St. Lawrence River population)",
+            species: "Ichthyomyzon unicuspis",
+            location: "St. Lawrence River",
+            status: "Special concern",
+            date: "2013",
+            photo: "https://www.joelsartore.com/wp-content/uploads/stock/FIS039/FIS039-00066-1920x1282.jpg"
+        },
+        {
+            name: "Silver shiner",
+            species: "Notropis photogenis",
+            location: "Rivers and Creeks flowing into Lake Ontario",
+            status: "Threatened",
+            date: "2012",
+            photo: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Silvershiner.jpg"
+        },
+        {
+            name: "Spotted gar",
+            species: "Lepisosteus oculatus",
+            location: "Lake Erie and East Lake",
+            status: "Endangered",
+            date: "2008",
+            photo: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lepisosteus_oculatus1.jpg"
+        },
+        {
+            name: "Spotted sucker",
+            species: "Minytrema melanops",
+            location: "southwestern Ontario",
+            status: "Special Concern",
+            date: "2008",
+            photo: "https://ncfishes.com/wp-content/uploads/2020/01/Minytrema-melanops.png"
+        },
+        {
+            name: "Upper Great Lakes kiyi",
+            species: "Coregonus kiyi kiyi",
+            location: "Lake Superior",
+            status: "Special Concern",
+            date: "2008",
+            photo: "https://www.worldlifeexpectancy.com/images/a/w/b/coregonus-kiyi/coregonus-kiyi.jpg"
+        },
+        {
+            name: "Warmouth",
+            species: "Lepomis gulosus",
+            location: "Lake Erie",
+            status: "Endangered",
+            date: "2008",
+            photo: "https://ncfishes.com/wp-content/uploads/2019/12/Lepomis-gulosus.png"
+        }
+    ],
+      
     Amphibians: [
       {
           name: "Allegheny mountain dusky salamander",
@@ -454,7 +706,7 @@ const data  = {
         species: "Acris blanchardi",
         location: "Pelee Island and Point Pelee in southwestern Ontario",
         status: "Extirpated",
-        date: "January 13, 2008",
+        date: "2008",
         photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/blanchards-cricket-frog-01.jpg",
       },
       {
@@ -470,7 +722,7 @@ const data  = {
         species: "Anaxyrus fowleri",
         location: "Rondeau, Long Point and Niagara",
         status: "Endangered",
-        date: "September 28, 2010",
+        date: "2010",
         photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/fowlers-toad-03.jpg",
       },
       {
@@ -478,7 +730,7 @@ const data  = {
         species: "Ambystoma jeffersonianum",
         location: "southern Ontario, mainly along the Niagara Escarpment",
         status: "Endangered",
-        date: "June 8, 2011",
+        date: "2011",
         photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/jefferson-salamander-01.jpg",
       },
       {
@@ -494,7 +746,7 @@ const data  = {
         species: "Ambystoma texanum",
         location: "Pelee Island",
         status: "Endangered",
-        date: "February 2, 2009",
+        date: "2009",
         photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/small-mouthed-salamander-01.jpg",
       },
       {
@@ -510,7 +762,7 @@ const data  = {
         species: "Ambystoma laterale-(2) jeffersonianum",
         location: "southern Ontario, mainly along the Niagara Escarpment",
         status: "Endangered",
-        date: "June 2, 2017",
+        date: "2017",
         photo: "https://files.ontario.ca/jefferson-dependent-unisexual-ambystoma-joecrowley.jpg",
       },
       {
@@ -518,10 +770,11 @@ const data  = {
         species: "Ambystoma laterale - texanum",
         location: "Pelee Island ",
         status: "Endangered",
-        date: "June 2, 2017",
+        date: "2017",
         photo: "https://files.ontario.ca/unisexual-ambystoma-small-mouthed-salamander_0_0.jpg",
-      },
+      }
   ],
+
 }
 
 export default data;

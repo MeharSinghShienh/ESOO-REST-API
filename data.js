@@ -691,7 +691,7 @@ const data  = {
             photo: "https://ncfishes.com/wp-content/uploads/2019/12/Lepomis-gulosus.png"
         }
     ],
-      
+
     Amphibians: [
       {
           name: "Allegheny mountain dusky salamander",
@@ -699,7 +699,7 @@ const data  = {
           location: "Southwestern Quebec and the Niagara Gorge in southern Ontario",
           status: "Endangered",
           date: "2008",
-          photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/allegheny-mountain-dusky-salamander-01.jpg",
+          photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/allegheny-mountain-dusky-salamander-01.jpg"
       },
       {
         name: "Blanchard’s Cricket Frog",
@@ -707,7 +707,7 @@ const data  = {
         location: "Pelee Island and Point Pelee in southwestern Ontario",
         status: "Extirpated",
         date: "2008",
-        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/blanchards-cricket-frog-01.jpg",
+        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/blanchards-cricket-frog-01.jpg"
       },
       {
         name: "Eastern tiger salamander",
@@ -715,7 +715,7 @@ const data  = {
         location: "Point Pelee",
         status: "Extirpated",
         date: "2008",
-        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/eastern-tiger-salamander-01.jpg",
+        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/eastern-tiger-salamander-01.jpg"
       },
       {
         name: "Fowler’s toad",
@@ -723,7 +723,7 @@ const data  = {
         location: "Rondeau, Long Point and Niagara",
         status: "Endangered",
         date: "2010",
-        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/fowlers-toad-03.jpg",
+        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/fowlers-toad-03.jpg"
       },
       {
         name: "Jefferson salamander",
@@ -731,7 +731,7 @@ const data  = {
         location: "southern Ontario, mainly along the Niagara Escarpment",
         status: "Endangered",
         date: "2011",
-        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/jefferson-salamander-01.jpg",
+        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/jefferson-salamander-01.jpg"
       },
       {
         name: "Northern dusky salamander",
@@ -739,7 +739,7 @@ const data  = {
         location: "a small area of the Niagara Peninsula",
         status: "Endangered",
         date: "2008",
-        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/northern-dusky-salamander-01.jpg",
+        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/northern-dusky-salamander-01.jpg"
       },
       {
         name: "Small-mouthed salamander",
@@ -747,7 +747,7 @@ const data  = {
         location: "Pelee Island",
         status: "Endangered",
         date: "2009",
-        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/small-mouthed-salamander-01.jpg",
+        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/small-mouthed-salamander-01.jpg"
       },
       {
         name: "Spring Salamander",
@@ -755,7 +755,7 @@ const data  = {
         location: "no longer in Ontario, now found only in Quebec",
         status: "Extirpated",
         date: "2008",
-        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/spring-salamander-01.jpg",
+        photo: "https://files.ontario.ca/environment-and-energy/species-at-risk/spring-salamander-01.jpg"
       },
       {
         name: "Unisexual Ambystoma (Jefferson salamander dependent population)",
@@ -763,7 +763,7 @@ const data  = {
         location: "southern Ontario, mainly along the Niagara Escarpment",
         status: "Endangered",
         date: "2017",
-        photo: "https://files.ontario.ca/jefferson-dependent-unisexual-ambystoma-joecrowley.jpg",
+        photo: "https://files.ontario.ca/jefferson-dependent-unisexual-ambystoma-joecrowley.jpg"
       },
       {
         name: "Unisexual Ambystoma (Small-mouthed Salamander dependent population)",
@@ -771,9 +771,124 @@ const data  = {
         location: "Pelee Island ",
         status: "Endangered",
         date: "2017",
-        photo: "https://files.ontario.ca/unisexual-ambystoma-small-mouthed-salamander_0_0.jpg",
+        photo: "https://files.ontario.ca/unisexual-ambystoma-small-mouthed-salamander_0_0.jpg"
       }
   ],
+
+  Mammals: [
+        {
+            name: "Algonquin Wolf",
+            species: "Canus Lupus Lycaon",
+            date: "2008",
+            status: "Threatened",
+            location: "Great Lakes Region",
+            photo: "https://images.thestar.com/KNUcTK1yyqGW71Y_ekUSLp_Cr2c=/1280x1024/smart/filters:cb(1570529943334)/https://www.thestar.com/content/dam/thestar/opinion/commentary/2016/09/27/ontario-action-jeopardize-existence-of-algonquin-wolf/algonquin-wolf.jpg"
+        },
+        {
+            name: "American Badger",
+            species: "T.taxus",
+            date: "2008",
+            status: "endangered",
+            location: "Northwest & Southwest Ontario",
+            photo: "http://4.bp.blogspot.com/_xC0p-PBMm7U/SSentDDCwyI/AAAAAAAABqs/HkNNOY6J204/w1200-h630-p-k-no-nu/American+Badger+-+by+wikipedia+endangered+in+Ontario.jpg"
+        },
+        {
+            name: "Beluga",
+            species: "D. Leucas",
+            date: "2008",
+            status: "special concern",
+            location: "Around the Hudson Bay",
+            photo: "https://cdn.mos.cms.futurecdn.net/BewJL6fSPTKm4E3LngGyPN.jpg"
+        },
+        {
+            name: "Caribou",
+            species: "R. Tarandus",
+            date: "2008",
+            status: "Threatened",
+            location: "Northern Forest and Eastern Lowlands",
+            photo: "https://www.ctvnews.ca/polopoly_fs/1.4961127.1590791543!/httpImage/image.jpg_gen/derivatives/landscape_1020/image.jpg"
+        },
+        {
+            name: "Easten Mole",
+            species: "Scalopus",
+            date: "2008",
+            status: "Special Concern",
+            location: "Extremely Southwest near Windsor",
+            photo: "https://upload.wikimedia.org/wikipedia/commons/3/3e/ScalopusAquaticus.jpg"
+        },
+        {
+            name: "Eastern Small-footed Myotis/Bat",
+            species: "Myotis leibii",
+            date: "2014",
+            status: "Endangered",
+            location: "Southern Ontario",
+            photo: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Eastern_small-footed_bat.jpg"
+        },
+        {
+            name: "Gray Fox",
+            species: "U. cinereoargenteus",
+            date: "2008",
+            status: "Threatened",
+            location: "West of Lake Superior",
+            photo: "https://wxv73zw8wg-flywheel.netdna-ssl.com/wp-content/uploads/2018/12/Gray-Fox-1024x546.jpg"
+        },
+        {
+            name: "Little Brown Myotis/Bat",
+            species: "M. lucifigus",
+            date: "2013",
+            status: "Endangered",
+            location: "Southern Ontario",
+            photo: "https://www.gbbr.ca/wp-content/uploads/2019/03/Little-Brown-Myotis-%E2%80%93-Photo-credit-S.Dobbyn.jpg"
+        },
+        {
+            name: "Mountain Lion (Cougar)",
+            species: "P. concolor",
+            date: "2008",
+            status: "Endangered",
+            location: "All of Ontario",
+            photo: "https://www.nwf.org/-/media/NEW-WEBSITE/Shared-Folder/Wildlife/Mammals/mammal_mountain-lion_shutterstock_600x300.ashx"
+        },
+        {
+            name: "Northern Myotis/Bat",
+            species: "M. septentrionalis",
+            date: "2013",
+            status: "Endangered",
+            location: "Forested Southern Ontario",
+            photo: "https://www.gbbr.ca/wp-content/uploads/2019/03/Northern-Myotis-Photo-credit-S.-Dobbyn.jpg"
+        },
+        {
+            name: "Polar Bear",
+            species: "Ursus Maritimus",
+            date: "2009",
+            status: "Threatened",
+            location: "Sea Ice of Thunder and James Bay",
+            photo: "https://c402277.ssl.cf1.rackcdn.com/photos/18694/images/carousel_small/Polar_bear_with_cubs_in_Wapusk_WW266666.jpg?1582733801"
+        },
+        {
+            name: "Tri-coloured Bat",
+            species: "P. Subflavus",
+            date: "2016",
+            status: "Endangered",
+            location: "Southern Ontario",
+            photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tri-colored_bat_%28Perimyotis_subflavus%29_with_WNS_growth.JPG/220px-Tri-colored_bat_%28Perimyotis_subflavus%29_with_WNS_growth.JPG"
+        },
+        {
+            name: "Wolverine",
+            species: "G. gulo",
+            date: "2008",
+            status: "Threatened",
+            location: "Northwest Forested Regions",
+            photo: "https://defenders.org/sites/default/files/styles/meta_image/public/2019-04/wolverine_pixabay_header.jpg?itok=NJvvw4zI"
+        },
+        {
+            name: "Woodland vole",
+            species: "Microtus",
+            date: "2008",
+            status: "Special Concern",
+            location: "Extremely South Ontario",
+            photo: "https://animaldiversity.org/collections/contributors/phil_myers/ADW_mammals/Rodentia/pinetorum6732/large.jpg"
+        },
+  ]
 
 }
 

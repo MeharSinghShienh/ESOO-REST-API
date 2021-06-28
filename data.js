@@ -1,6 +1,6 @@
 // add extinction data here
 const data  = {
-  Birds: [
+  birds: [
       {//1
           id: 1,
           name: "Acadian Flycatcher",
@@ -75,7 +75,7 @@ const data  = {
       }
   ],
 
-  Reptiles: [
+  reptiles: [
       {
           id: 1,
           name: "Blanding's Turtle",
@@ -285,7 +285,7 @@ const data  = {
       }
   ],
 
-  Insects: [
+  insects: [
       {
           id: 1,
           name: "American burying beetle",
@@ -495,7 +495,7 @@ const data  = {
       }
   ],
 
-  Fishes: [
+  fishes: [
         {
             id: 1,
             name: "American Eel",
@@ -777,7 +777,7 @@ const data  = {
         }
     ],
 
-    Amphibians: [
+    amphibians: [
       {
           id: 1,
           name: "Allegheny mountain dusky salamander",
@@ -870,7 +870,7 @@ const data  = {
       }
   ],
 
-  Mammals: [
+  mammals: [
         {
             id: 1,
             name: "Algonquin Wolf",
